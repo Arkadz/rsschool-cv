@@ -51,9 +51,9 @@ Education
 2. Took part in the passage of various Sololearn trainings for:
     - **JavaScript, HTML, CSS**
     
-    <img src='https://www.sololearn.com/certificates/course/en/4952736/1024/landscape/png' width='300'  alt='JS'>    
-    <img src='https://www.sololearn.com/Certificate/1014-4952736/jpg/'  width='300'  alt='HTML'>
-    <img src='https://www.sololearn.com/Certificate/1023-4952736/jpg/'  width='300'  alt='CSS'>
+    <img src='https://www.sololearn.com/certificates/course/en/4952736/1024/landscape/png' width='290'  alt='JS'>    
+    <img src='https://www.sololearn.com/Certificate/1014-4952736/jpg/'  width='290'  alt='HTML'>
+    <img src='https://www.sololearn.com/Certificate/1023-4952736/jpg/'  width='290'  alt='CSS'>
     
     - [Jquery](https://www.sololearn.com/Certificate/1059-4952736/jpg/)
     - [SQL](https://www.sololearn.com/Certificate/1082-4952736/jpg/)
