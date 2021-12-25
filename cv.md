@@ -39,8 +39,7 @@ My code examples
 -------------
 - [Codewars](https://www.codewars.com/users/Arkadz/completed_solutions)
 - [Telegram Bot on Webhook](https://github.com/Arkadz/Telegram_Bot_Webhook/blob/main/main.py)
-- [JS example 1](https://github.com/Arkadz/someJS_1)
-- [JS example 2](https://github.com/Arkadz/somejs2)
+- [JS example 1](https://github.com/Arkadz/someJS_1), [JS example 2](https://github.com/Arkadz/somejs2), [JS example 3](https://github.com/Arkadz/someJs)
 
 Experience
 ----------
