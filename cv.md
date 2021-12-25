@@ -50,6 +50,7 @@ Education
 1. Higher education in ***Jurisprudence***;
 2. Took part in the passage of various Sololearn trainings for:
     - **JavaScript, HTML, CSS**
+    
     <img src='https://www.sololearn.com/certificates/course/en/4952736/1024/landscape/png' width='300'  alt='JS'>    
     <img src='https://www.sololearn.com/Certificate/1014-4952736/jpg/'  width='300'  alt='HTML'>
     <img src='https://www.sololearn.com/Certificate/1023-4952736/jpg/'  width='300'  alt='CSS'>
