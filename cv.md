@@ -48,6 +48,7 @@ Education
 1. Higher education in jurisprudence;
 2. Took part in the passage of various trainings for:
     - Sololearn: 
+    <img src='https://www.sololearn.com/certificates/course/en/4952736/1024/landscape/png' width='50'  heigh='40'>
     ![JavaScript](https://www.sololearn.com/certificates/course/en/4952736/1024/landscape/png)
     ![HTML](https://www.sololearn.com/Certificate/1014-4952736/jpg/)
     ![CSS](https://www.sololearn.com/Certificate/1023-4952736/jpg/)
