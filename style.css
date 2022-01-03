@@ -12,13 +12,6 @@ body {
     width: 100%;
 }
 
-.containerAside > img {
-    width: 180px;
-    height: auto;
-    border: 1px solid lightblue;  
-    border-radius: 50%;
-    margin-left: 5px;
-}
 
 header {
     position: fixed;
@@ -74,6 +67,16 @@ aside > .containerAside {
     border-right: 3px solid rgb(128, 177, 177);
     height: 100%;
 }
+
+.containerAside > img {
+    margin-top: 70px;
+    width: 180px;
+    height: auto;
+    border: 1px solid lightblue;  
+    border-radius: 50%;
+    margin-left: 5px;
+}
+
 
 main > .container {
     margin-left: 210px;
@@ -133,6 +136,10 @@ a {
     border-radius: 5px;
 }
 
+.someCode > h5 {
+    margin-top: 0;
+}
+
 footer {
     display: flex;
     justify-content: flex-end;
@@ -163,3 +170,9 @@ footer > span {
 a > img {
     width: 70px;
 }
+
+#lastdiv {
+    width: auto;
+    height: 200px;
+}
+
