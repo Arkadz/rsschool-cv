@@ -32,29 +32,37 @@ My Skills
 ------
 I know the basics:
 - **_JavaScript_**, _Java_, _Python_;
+- **_HTML_**, **_CSS_**;
 - _Git_;
-- **_HTML_**, **_CSS_**.
 
 My code examples
 -------------
-- [Codewars](https://www.codewars.com/users/Arkadz/completed_solutions)
-- [Telegram Bot on Webhook](https://github.com/Arkadz/Telegram_Bot_Webhook/blob/main/main.py)
-- [JS example 1](https://github.com/Arkadz/someJS_1), [JS example 2](https://github.com/Arkadz/somejs2), [JS example 3](https://github.com/Arkadz/someJs)
+```
+function vowelOne(s){
+  return s.toLowerCase().replace(/([aeiou])|([^aeiou])/g, (match, p1)=>{
+    return p1 ? '1' : '0';
+  });
+}
+```
 
 Experience
 ----------
 _At the moment, there is no practical (production) experience related to programming_.
 
+My projects
+-------------
+- [Codewars](https://www.codewars.com/users/Arkadz/completed_solutions)
+- [Telegram Bot on Webhook](https://github.com/Arkadz/Telegram_Bot_Webhook/blob/main/main.py)
+- [JS example 1](https://arkadz.github.io/someJS_1), [JS example 2](https://arkadz.github.io/somejs2), [JS example 3](https://arkadz.github.io/someJs)
+
 Education
 ---------
-1. Higher education in ***Jurisprudence***;
-2. Took part in the passage of various Sololearn trainings for:
-    - **JavaScript, HTML, CSS**
-    
-    <img src='https://www.sololearn.com/certificates/course/en/4952736/1024/landscape/png' width='260'  alt='JS'>    
-    <img src='https://www.sololearn.com/Certificate/1014-4952736/jpg/'  width='260'  alt='HTML'>
-    <img src='https://www.sololearn.com/Certificate/1023-4952736/jpg/'  width='260'  alt='CSS'>
-    
+1. Higher education in ***Jurisprudence***
+2. RS SCHOOL [**JS/FE PRE-SCHOOL 2022 (JAVASCRIPT)**](https://app.rs.school/certificate/cg5a4w6y)
+3. Took part in the passage of various [**SOLOLEARN**](https://www.sololearn.com/profile/4952736) trainings for:
+    - [**JavaScript**](https://www.sololearn.com/certificates/course/en/4952736/1024/landscape/png)
+    - [**HTML**](https://www.sololearn.com/Certificate/1014-4952736/jpg/)
+    - [**CSS**](https://www.sololearn.com/Certificate/1023-4952736/jpg/)
     - [Jquery](https://www.sololearn.com/Certificate/1059-4952736/jpg/)
     - [SQL](https://www.sololearn.com/Certificate/1082-4952736/jpg/)
     - [Java](https://www.sololearn.com/certificates/course/en/4952736/1068/landscape/png)
@@ -63,9 +71,9 @@ Education
     - [C++](https://www.sololearn.com/Certificate/1051-4952736/jpg/)
      
 
- 3. ***Hexlet*** ("Command line basics _Bash_", "Introduction to Git")
+4. ***Hexlet*** ("Command line basics _Bash_", "Introduction to Git")
 
-  4. other resources.
+5. Other resources
 
 English proficiency
 -------------------
