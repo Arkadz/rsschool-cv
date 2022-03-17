@@ -1,0 +1,200 @@
+html {
+    scroll-behavior: smooth;
+}
+
+
+body {
+    margin: 0;
+    font-size: 16px;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    background-color: lightblue;
+    height: 100%;
+    width: 100%;
+    background-image: url("cool-background.png");
+    background-size: cover;
+    
+}
+
+
+header {
+    position: fixed;
+    width: 100%;
+    border-bottom: 3px solid rgb(121, 163, 163);
+    z-index: 1;
+}
+
+
+.nav {
+    background-color: rgb(149, 211, 231);
+    margin: 0;
+    display: flex;
+    justify-content: space-around;
+    height: 50px;
+    align-items: center;
+    background-image: url("cool-background.png");
+    background-size: cover;
+}
+
+.nav > li {
+    display: inline-block;
+    box-sizing: border-box;
+    background-color: lightblue;
+    border-radius: 5%;
+    width: 80px;
+    height: 26px;
+    border: 1px solid rgb(39, 98, 117);
+    text-align: center;
+    vertical-align: middle;
+    margin: 0;
+    padding: 0;
+    transition: 0.3s;
+}
+
+.nav > li:hover {
+    border: 1px dotted rgb(20, 69, 85);
+    background-color: lightcyan;
+}  
+
+aside {
+    
+    background-color: rgb(93, 140, 184);
+    height: 100%;
+    width: 210px;
+    position: fixed;
+    left: 0;
+    top: 0;
+}
+
+aside > .containerAside {
+    
+    flex-direction: column;
+    background-color: lightblue;
+    border-right: 3px solid rgb(128, 177, 177);
+    height: 100%;
+    background-image: url("cool-background.png");
+    background-size: cover;
+}
+
+.containerAside > img {
+    margin-top: 70px;
+    width: 180px;
+    height: auto;
+    border: 1px solid lightblue;  
+    border-radius: 50%;
+    margin-left: 5px;
+}
+
+
+main > .container {
+    margin-left: 210px;
+    display: flex;
+    height: min-content;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.container > div {
+    flex-basis: 25em;
+    border-radius: 3%;
+    background-color: rgb(150, 210, 230);
+    margin: 70px 20px 10px;
+    height: auto;
+    font-size: 14px;
+    border: 3px solid rgb(128, 177, 177);
+    opacity: 0.9;
+}
+
+@media (max-width: 768px) {
+    .container > div {
+      width: 100%;
+    }
+  }
+
+
+.info {
+    border-radius: 1%;
+    padding-left: 10px;
+    padding-right: 20px;
+    padding-bottom: 10px;
+   
+}
+
+.about {
+    text-align: justify;
+}
+
+h3 {
+    padding: 10px 0px 0px 10px;
+}
+
+.contacts {
+    font-size: 0.7em;
+}
+
+a {
+  color: rgb(10, 65, 83);
+  font-style: italic;
+  text-decoration: none;
+}
+
+.someCode {
+    background-color: rgb(96, 170, 202);
+    color: black;
+    padding: 10px;
+    border-radius: 5px;
+}
+
+.someCode > h5 {
+    margin-top: 0;
+}
+
+footer {
+    display: flex;
+    justify-content: flex-end;
+    background-color: rgb(93, 140, 184);
+    position: fixed;
+    width: 100%;
+    height: 30px;
+    border-top: 3px solid darkcyan;
+    bottom: 0;
+    opacity: 0.9;
+}
+
+footer > * {
+    display: inline-block;
+    width: 150px;
+}
+
+footer > a {
+    font-weight: bold;
+}
+
+footer > span {
+    color: rgb(10, 65, 83);
+    font-style: italic;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+a > img {
+    width: 70px;
+}
+
+#lastdiv {
+    width: auto;
+    height: 200px;
+}
+
+h1 {
+    font-size: 22px;
+    text-align: center;
+}
+
+.open {
+    font-size: 22px;
+    text-align: center;
+}
+
+
+
